@@ -2749,19 +2749,20 @@ flow-bin@^0.169.0:
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.169.0.tgz#3c25ecefc165929159f30b8eb5b8b74cc7ead9a7"
   integrity sha512-CflYPrd4KiMh5RyvoJbkM5Az1PKDzFBCu3tHqNcZkHeCbYgtLAcYVTs1w8aKDXfTiBSPZ7B9u5KT5RdmsY2mzQ==
 
-focus-trap-react@^8.9.0:
-  version "8.9.0"
-  resolved "https://registry.yarnpkg.com/focus-trap-react/-/focus-trap-react-8.9.0.tgz#28bd4c9c117de6cb72bad4773ee58345b785117f"
-  integrity sha512-zxV5b0sRn9IeDYvDbApfZUdH5vrWBqHoltB+HbSZCAgDML58vft6qTjgiEO3ROVKjX2wbNF1A1Rv1An1uhJI6A==
+focus-trap-react@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/focus-trap-react/-/focus-trap-react-10.0.1.tgz#5a50333f9753355765fcd7b83c6d2a59c5716c65"
+  integrity sha512-Av+O4JCT4/WnY25jnaOu1rysqhaD9aAhqAxxcrJbgKciZToIFmPng/WOrLJ1yHe6ntNmx1g0WhdeDfNCL1dmfA==
   dependencies:
-    focus-trap "^6.7.1"
+    focus-trap "^7.1.0"
+    tabbable "^6.0.1"
 
-focus-trap@^6.7.1:
-  version "6.7.1"
-  resolved "https://registry.yarnpkg.com/focus-trap/-/focus-trap-6.7.1.tgz#d474f86dbaf3c7fbf0d53cf0b12295f4f4068d10"
-  integrity sha512-a6czHbT9twVpy2RpkWQA9vIgwQgB9Nx1PIxNNUxQT4nugG/3QibwxO+tWTh9i+zSY2SFiX4pnYhTaFaQF/6ZAg==
+focus-trap@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/focus-trap/-/focus-trap-7.1.0.tgz#3226e977d76b1fd555c2e4f7ff91f10371f0f2cc"
+  integrity sha512-CuJvwUBfJCWcU6fc4xr3UwMF5vWnox4isXAixCwrPzCsPKOQjP9T+nTlYT2t+vOmQL8MOQ16eim99XhjQHAuiQ==
   dependencies:
-    tabbable "^5.2.1"
+    tabbable "^6.0.1"
 
 foreach@^2.0.5:
   version "2.0.5"
@@ -5321,10 +5322,10 @@ symbol-tree@^3.2.4:
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.4.tgz#430637d248ba77e078883951fb9aa0eed7c63fa2"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
 
-tabbable@^5.2.1:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/tabbable/-/tabbable-5.2.1.tgz#e3fda7367ddbb172dcda9f871c0fdb36d1c4cd9c"
-  integrity sha512-40pEZ2mhjaZzK0BnI+QGNjJO8UYx9pP5v7BGe17SORTO0OEuuaAwQTkAp8whcZvqon44wKFOikD+Al11K3JICQ==
+tabbable@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/tabbable/-/tabbable-6.0.1.tgz#427a09b13c83ae41eed3e88abb76a4af28bde1a6"
+  integrity sha512-SYJSIgeyXW7EuX1ytdneO5e8jip42oHWg9xl/o3oTYhmXusZVgiA+VlPvjIN+kHii9v90AmzTZEBcsEvuAY+TA==
 
 temp-dir@^2.0.0:
   version "2.0.0"
